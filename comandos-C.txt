@@ -1,0 +1,6 @@
+---------------------------------
+COMANDOS EM C
+---------------------------------
+
+para adicinar um programa em c: "programa.c"
+para compilar e executar o programa : gcc programa.c -o "nome"
